@@ -1,3 +1,3 @@
-package com.jw.routedata.domain
+package com.jw.rutedata.domain
 
 data class Kommune(val navn: String, val innbyggere: Int)

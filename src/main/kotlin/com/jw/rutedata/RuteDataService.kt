@@ -1,8 +1,8 @@
-package com.jw.routedata
+package com.jw.rutedata
 
-import com.jw.routedata.domain.Avgang
-import com.jw.routedata.domain.Kommune
-import com.jw.routedata.domain.RuteStopp
+import com.jw.rutedata.domain.Avgang
+import com.jw.rutedata.domain.Kommune
+import com.jw.rutedata.domain.RuteStopp
 import java.time.LocalDateTime
 import kotlin.math.abs
 

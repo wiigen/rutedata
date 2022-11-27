@@ -1,4 +1,4 @@
-package com.jw.routedata.domain
+package com.jw.rutedata.domain
 
 import java.time.LocalDateTime
 

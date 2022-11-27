@@ -1,4 +1,4 @@
-package com.jw.routedata
+package com.jw.rutedata
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
