@@ -1,2 +1,2 @@
-# route-data
-Generate route data for trains - Kotlin playground
+# rutedata
+Generering av rutedata for tog - Kotlin playground
