@@ -7,8 +7,8 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>route-data</name>
-    <url>https://github.com/wiigen/route-data</url>
+    <name>rutedata</name>
+    <url>https://github.com/wiigen/rutedata</url>
 
     <properties>
         <kotlin.version>1.7.20</kotlin.version>
